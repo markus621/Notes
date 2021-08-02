@@ -10,5 +10,5 @@
 
 ### Config
 
-* VSCode Setting: [settings.json](.vscode/settings.json)
+* VSCode Setting: [.vscode/settings.json](settings.json)
 * GitIgnore: https://github.com/github/gitignore/blob/master/Unity.gitignore
